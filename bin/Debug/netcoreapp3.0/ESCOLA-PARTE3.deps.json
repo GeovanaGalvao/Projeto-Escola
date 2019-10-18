@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "ESCOLA-PARTE3/1.0.0": {
+        "runtime": {
+          "ESCOLA-PARTE3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ESCOLA-PARTE3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

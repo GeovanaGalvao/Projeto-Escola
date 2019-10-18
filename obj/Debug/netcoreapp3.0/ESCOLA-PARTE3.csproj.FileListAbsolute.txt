@@ -1,0 +1,11 @@
+C:\Users\Dev4Jobs8\Desktop\Trabalhos Solicitados\ESCOLA-PARTE3\bin\Debug\netcoreapp3.0\ESCOLA-PARTE3.exe
+C:\Users\Dev4Jobs8\Desktop\Trabalhos Solicitados\ESCOLA-PARTE3\bin\Debug\netcoreapp3.0\ESCOLA-PARTE3.deps.json
+C:\Users\Dev4Jobs8\Desktop\Trabalhos Solicitados\ESCOLA-PARTE3\bin\Debug\netcoreapp3.0\ESCOLA-PARTE3.runtimeconfig.json
+C:\Users\Dev4Jobs8\Desktop\Trabalhos Solicitados\ESCOLA-PARTE3\bin\Debug\netcoreapp3.0\ESCOLA-PARTE3.runtimeconfig.dev.json
+C:\Users\Dev4Jobs8\Desktop\Trabalhos Solicitados\ESCOLA-PARTE3\bin\Debug\netcoreapp3.0\ESCOLA-PARTE3.dll
+C:\Users\Dev4Jobs8\Desktop\Trabalhos Solicitados\ESCOLA-PARTE3\bin\Debug\netcoreapp3.0\ESCOLA-PARTE3.pdb
+C:\Users\Dev4Jobs8\Desktop\Trabalhos Solicitados\ESCOLA-PARTE3\obj\Debug\netcoreapp3.0\ESCOLA-PARTE3.csprojAssemblyReference.cache
+C:\Users\Dev4Jobs8\Desktop\Trabalhos Solicitados\ESCOLA-PARTE3\obj\Debug\netcoreapp3.0\ESCOLA-PARTE3.AssemblyInfoInputs.cache
+C:\Users\Dev4Jobs8\Desktop\Trabalhos Solicitados\ESCOLA-PARTE3\obj\Debug\netcoreapp3.0\ESCOLA-PARTE3.AssemblyInfo.cs
+C:\Users\Dev4Jobs8\Desktop\Trabalhos Solicitados\ESCOLA-PARTE3\obj\Debug\netcoreapp3.0\ESCOLA-PARTE3.dll
+C:\Users\Dev4Jobs8\Desktop\Trabalhos Solicitados\ESCOLA-PARTE3\obj\Debug\netcoreapp3.0\ESCOLA-PARTE3.pdb
